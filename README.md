@@ -33,5 +33,5 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 - **Gestione Utente**: 
   - Registrazione e Accesso all'Applicazione con diversi tipo di utenti
-  - Gestione Profili
--**Gestione Menù**
+  - Gestione Profili.
+- **Gestione Menù**:
