@@ -35,3 +35,10 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
   - Registrazione e Accesso all'Applicazione con diversi tipo di utenti
   - Gestione Profili.
 - **Gestione Menù**:
+  - Gestione Disponibilità Pasti
+  - Caricamento Menù Giornalieri
+- **Prenotazione Pasti**:
+  - Selezione rapida del menù e personalizzazione in base alle esigenze
+  - Definizione dell'orario di consegna del pasto
+- **Comunicazione**:
+  - Avviso Stato Pasto, anche tramite Notifica
