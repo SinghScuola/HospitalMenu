@@ -28,3 +28,5 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 - **Manutenibilità**
 - **Compatibilità**
 - **Usabilità**
+
+## Funzionalità di Dominio 
