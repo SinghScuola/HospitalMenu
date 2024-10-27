@@ -31,7 +31,7 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 ## Funzionalità di Dominio 
 
--**Gestione Utente**: 
+- **Gestione Utente**: 
   - Registrazione e Accesso all'Applicazione con diversi tipo di utenti
   - Gestione Profili
 -**Gestione Menù**
