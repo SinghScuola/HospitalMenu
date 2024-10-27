@@ -13,3 +13,16 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 ## Competitors
 - **Meal Manager**: Soluzione per la gestione dei pasti in ambito ospedaliero, permette la selezione di menù dietetici, ma risulta meno agile per prenotazioni rapide
 - **Cibos**: Piattaforma per l'ordinazione dei pasti negli ospedali, con limitazioni nella personalizzazione e nelle funzionalità di notifica per il personale
+
+## Requisiti Funzionali
+
+- **Registrazione e Acesso**
+- **Selezione Menù**
+- **Prenotazione Rapida**
+- **Personalizzazione dei Pasti**
+- **Notifiche Quando il Pasto è Pronto**
+  
+
+## Requisiti non Funzionali
+
+
