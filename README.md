@@ -20,9 +20,11 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 - **Selezione Menù**
 - **Prenotazione Rapida**
 - **Personalizzazione dei Pasti**
-- **Notifiche Quando il Pasto è Pronto**
+- **Notifiche Pasto Pronto**
   
-
 ## Requisiti non Funzionali
 
-
+- **Sicurezza**
+- **Manutenibilità**
+- **Compatibilità**
+- **Usabilità**
