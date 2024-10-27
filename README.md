@@ -45,4 +45,5 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 ## Diagramma
 
-![Diagramma](https://github.com/user-attachments/assets/01cba480-0a48-4e9b-984c-95d00bee8864)
+![immagine_2024-10-27_135132683](https://github.com/user-attachments/assets/a44d6c31-97cf-425d-a07b-a3af3664fb58)
+
