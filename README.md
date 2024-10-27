@@ -42,3 +42,7 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
   - Definizione dell'orario di consegna del pasto
 - **Comunicazione**:
   - Avviso Stato Pasto, anche tramite Notifica
+
+## Diagramma
+
+![Diagramma](https://github.com/user-attachments/assets/01cba480-0a48-4e9b-984c-95d00bee8864)
