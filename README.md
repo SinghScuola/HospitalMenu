@@ -11,6 +11,5 @@ L'applicazione è progettata per semplificare la prenotazione dei pasti in osped
 All’interno degli ospedali, il personale medico deve spesso affrontare lunghe attese e code per prenotare i pasti, sottraendo tempo prezioso alle attività di cura dei pazienti. Questa applicazione mira a ottimizzare il processo, riducendo i tempi di attesa.
 
 ## Competitors
-- **Meal Manager**: Meal Manager
-  ciao
-- [Cibos](Cibos)
+- **Meal Manager**: Soluzione per la gestione dei pasti in ambito ospedaliero, permette la selezione di menù dietetici, ma risulta meno agile per prenotazioni rapide
+- **Cibos**: Piattaforma per l'ordinazione dei pasti negli ospedali, con limitazioni nella personalizzazione e nelle funzionalità di notifica per il personale
