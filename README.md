@@ -1,6 +1,6 @@
 # DocEats
 
-## HospitalMenù
+## Hospital Menu
 
 Prenotazione rapida e personalizzata del menù ospedaliero per medici e personale sanitario
 
