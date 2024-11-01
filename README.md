@@ -18,11 +18,36 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 ## Requisiti Funzionali
 
-- **Registrazione e Acesso**
-- **Selezione Menù**
-- **Prenotazione Rapida**
-- **Personalizzazione dei Pasti**
-- **Notifiche Pasto Pronto**
+- **Registrazione e Accesso**
+   - Creazione di un account con nome utente, email, password e codice fiscale
+   - Possibilità di accedere con nome utente e password
+   - Modifica successiva dell'account con possibilità di cambiare email, password e nome utente
+
+- **Gestione del Menù**
+   - Selezione del Menù: Possibilità di scegliere un menù predefinito, modificabile successivamente
+   - Personalizzazione del Menù: Opzione per aggiungere modifiche in base a preferenze ( allergie, intolleranze, bevande, e orario di consumo)
+   - Ordini Multipli: Possibilità di ordinare più menù
+
+- **Gestione dei Pasti Disponibili**
+   - Inserimento dei pasti disponibili da parte del personale di cucina
+
+- **Prenotazione e Consegna**
+   - Prenotazione Rapida: Permette di selezionare e prenotare il menù
+   - Impostazione Orario di Consegna: Opzione per indicare l’orario in cui si desidera ricevere il pasto
+
+- **Notifiche**
+   - Notifica automatica quando il pasto è pronto
+   - Notifica circa 2 minuti prima del pasto pronto per dare al personale il tempo di prepararsi
+
+- **Interfaccia Utente**
+   - Visualizzazione Menù con Icone: Ogni piatto è rappresentato con un’icona e include le opzioni di personalizzazione
+   - Facilità di utilizzo: Design intuitivo e comprensibile per l’uso rapido da parte di tutti gli utenti
+
+- **Disponibilità**
+   - App scaricabile dagli store digitali (App Store, Google Play) 
+
+
+
   
 ## Requisiti non Funzionali
 
