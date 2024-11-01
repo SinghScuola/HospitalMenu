@@ -2,15 +2,15 @@
 
 ## Hospital Menu
 
-Prenotazione rapida e personalizzata del menù ospedaliero per medici e personale sanitario
+Prenotazione rapida e personalizzata del menù ospedaliero per medici e personale sanitario <br />
 
 ## Descrizione Progetto
 
-L'applicazione è progettata per semplificare la prenotazione dei pasti in ospedale, con particolare attenzione ai bisogni di medici e personale sanitario. Grazie a un'interfaccia semplice e intuitiva, l'app consente di selezionare i piatti preferiti, personalizzarli in base alle proprie esigenze alimentari e ricevere notifiche sulla disponibilità del pasto.
+L'applicazione è progettata per semplificare la prenotazione dei pasti in ospedale, con particolare attenzione ai bisogni di medici e personale sanitario. Grazie a un'interfaccia semplice e intuitiva, l'app consente di selezionare i piatti preferiti, personalizzarli in base alle proprie esigenze alimentari e ricevere notifiche sulla disponibilità del pasto <br />
 
 ## Obiettivo del Progetto
 
-All’interno degli ospedali, il personale medico deve spesso affrontare lunghe attese e code per prenotare i pasti, sottraendo tempo prezioso alle attività di cura dei pazienti. Questa applicazione mira a ottimizzare il processo, riducendo i tempi di attesa.
+All’interno degli ospedali, il personale medico deve spesso affrontare lunghe attese e code per prenotare i pasti, sottraendo tempo prezioso alle attività di cura dei pazienti. Questa applicazione mira a ottimizzare il processo, riducendo i tempi di attesa <br />
 
 ## Competitors
 - **Meal Manager**: Soluzione per la gestione dei pasti in ambito ospedaliero, permette la selezione di menù dietetici, ma risulta meno agile per prenotazioni rapide
