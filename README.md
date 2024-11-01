@@ -1,4 +1,4 @@
-# DocEats
+# DocEats <br />
 
 ## Hospital Menu
 
@@ -14,7 +14,7 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 ## Competitors
 - **Meal Manager**: Soluzione per la gestione dei pasti in ambito ospedaliero, permette la selezione di menù dietetici, ma risulta meno agile per prenotazioni rapide
-- **Cibos**: Piattaforma per l'ordinazione dei pasti negli ospedali, con limitazioni nella personalizzazione e nelle funzionalità di notifica per il personale
+- **Cibos**: Piattaforma per l'ordinazione dei pasti negli ospedali, con limitazioni nella personalizzazione e nelle funzionalità di notifica per il personale <br /><br />
 
 ## Requisiti Funzionali
 
