@@ -64,7 +64,7 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 - **Usabilità**
    - Tempi di risposta ottimali
-   - Possibilità di gestione simultanea di più utenti <br /><br /><br /><br />
+   - Possibilità di gestione simultanea di più utenti <br /><br />
 
 
 ## Funzionalità di Dominio 
