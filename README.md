@@ -52,9 +52,22 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 ## Requisiti non Funzionali
 
 - **Sicurezza**
+   - Verifica che l’utente che richiede il menu sia un medico, tramite autenticazione e controllo delle credenziali
+   - Protezione e sicurezza dei dati: i dati degli utenti non possono essere condivisi esternamente 
+   - Accessibilità limitata all’orario specifico (5:00 - 20:30) 
+
+
 - **Manutenibilità**
+   - Manutenzione continua dell’applicazione tramite aggiornamenti regolari, per garantire efficienza e correzione di eventuali bug
+
 - **Compatibilità**
+   - Supporto per dispositivi Android e iOS 
+   - Compatibilità con vari dispositivi 
+
 - **Usabilità**
+   - Tempi di risposta ottimali
+   - Possibilità di gestione simultanea di più utenti
+
 
 ## Funzionalità di Dominio 
 
