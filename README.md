@@ -44,8 +44,8 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
    - Facilità di utilizzo: Design intuitivo e comprensibile per l’uso rapido da parte di tutti gli utenti
 
 - **Disponibilità**
-   - App scaricabile dagli store digitali (App Store, Google Play) \n\n
-
+   - App scaricabile dagli store digitali (App Store, Google Play) \\
+\\
 
 ## Requisiti non Funzionali
 
