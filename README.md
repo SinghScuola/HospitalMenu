@@ -71,17 +71,20 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 ## Funzionalità di Dominio 
 
-- **Gestione Utente**: 
-  - Registrazione e Accesso all'Applicazione con diversi tipo di utenti
-  - Gestione Profili.
-- **Gestione Menù**:
-  - Gestione Disponibilità Pasti
-  - Caricamento Menù Giornalieri
-- **Prenotazione Pasti**:
-  - Selezione rapida del menù e personalizzazione in base alle esigenze
-  - Definizione dell'orario di consegna del pasto
-- **Comunicazione**:
-  - Avviso Stato Pasto, anche tramite Notifica
+- **Accessibilità alla Rete Interna**
+   - L’applicazione deve essere accessibile tramite la rete interna dell'ospedale
+
+- **Riservatezza e Sicurezza dei Dati Sensibili**
+   - Implementazione di meccanismi di autenticazione robusti, come login tramite user-id e password, per garantire che solo gli utenti autorizzati (es. medici, personale sanitario) possano accedere al menu
+   - Protezione dei dati degli utenti attraverso in conformità con le normative di protezione dei dati (es. GDPR)
+
+- **Integrazione con Sistemi Esistenti**
+   - Il sistema deve essere compatibile e integrabile con altri sistemi informatici già in uso nell'ospedale, facilitando lo scambio di informazioni senza ridondanze
+
+- **Gestione della Capacità e delle Performance**
+   - Il sistema deve essere progettato per gestire un alto volume di utenti simultanei, garantendo tempi di risposta rapidi e affidabili, in particolare durante i picchi di utilizzo
+
+
 
 ## Diagramma
 
