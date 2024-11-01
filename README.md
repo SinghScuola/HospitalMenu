@@ -54,7 +54,7 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 - **Sicurezza**
    - Verifica che l’utente che richiede il menu sia un medico, tramite autenticazione e controllo delle credenziali
    - Protezione e sicurezza dei dati: i dati degli utenti non possono essere condivisi esternamente 
-   - Accessibilità limitata all’orario specifico (5:00 - 20:30) 
+   - Accessibilità limitata all’orario specifico (5:00 - 19:30) 
 
 
 - **Manutenibilità**
