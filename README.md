@@ -93,7 +93,7 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
    - GO
    - Node.js<br />
 
-_ **Gestion Notifiche**
+- **Gestione Notifiche**
    - Firebase Cloud Messaging (FCM) <br />
 
 - **Autenticazione** 
