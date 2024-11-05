@@ -80,7 +80,7 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
    - Il sistema deve essere compatibile e integrabile con altri sistemi informatici già in uso nell'ospedale, facilitando lo scambio di informazioni senza ridondanze
 
 - **Gestione della Capacità e delle Performance**
-   - Il sistema deve essere progettato per gestire un alto volume di utenti simultanei, garantendo tempi di risposta rapidi e affidabili, in particolare durante i picchi di utilizzo <br /><br /><br /><br />
+   - Il sistema deve essere progettato per gestire un alto volume di utenti simultanei, garantendo tempi di risposta rapidi e affidabili, in particolare durante i picchi di utilizzo <br /><br /><br />
 
 ## Tecnologie Utilizzate
 
