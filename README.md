@@ -82,22 +82,23 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 - **Gestione della Capacità e delle Performance**
    - Il sistema deve essere progettato per gestire un alto volume di utenti simultanei, garantendo tempi di risposta rapidi e affidabili, in particolare durante i picchi di utilizzo <br /><br /><br /><br />
 
-## Tecnologie Utilizzate <br /><br />
+## Tecnologie Utilizzate
 
 # Frontend
 - Javascript<br />
 
-# Backend <br /><br />
+# Backend
 - Java
 - PHP
 - GO
 - Node.js<br />
 
 # Gestion Notifiche
-- Firebase Cloud Messaging (FCM)
+- Firebase Cloud Messaging (FCM) <br />
 
-# Autenticazione <br />
-- JSON Web Tokens (JWT)
+# Autenticazione 
+- JSON Web Tokens (JWT) <br />
+
 ## Diagramma
 
 ![immagine_2024-11-01_091024557](https://github.com/user-attachments/assets/268af09c-1ae2-44ba-b837-717f79685787)
