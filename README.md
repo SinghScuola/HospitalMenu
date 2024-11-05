@@ -84,20 +84,20 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 ## Tecnologie Utilizzate
 
-### Frontend
-- Javascript<br />
+- **Frontend**
+   - Javascript<br />
 
-### Backend
-- Java
-- PHP
-- GO
-- Node.js<br />
+- **Backend**
+   - Java
+   - PHP
+   - GO
+   - Node.js<br />
 
-### Gestion Notifiche
-- Firebase Cloud Messaging (FCM) <br />
+_ **Gestion Notifiche**
+   - Firebase Cloud Messaging (FCM) <br />
 
-### Autenticazione 
-- JSON Web Tokens (JWT) <br />
+- **Autenticazione** 
+   - JSON Web Tokens (JWT) <br />
 
 ## Diagramma
 
