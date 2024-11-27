@@ -37,23 +37,23 @@ All’interno degli ospedali, il personale medico deve spesso affrontare lunghe 
 
 - **Notifiche**
    - Notifica automatica quando il pasto è pronto
-   - Notifica circa 2 minuti prima del pasto pronto per dare al personale il tempo di prepararsi
+   - Notifica circa 2 minuti prima del pasto pronto per dare al personale il tempo di prepararsi<br /><br />
+
+
+
+## Requisiti non Funzionali
 
 - **Interfaccia Utente**
    - Visualizzazione Menù con Icone: Ogni piatto è rappresentato con un’icona e include le opzioni di personalizzazione
    - Facilità di utilizzo: Design intuitivo e comprensibile per l’uso rapido da parte di tutti gli utenti
 
 - **Disponibilità**
-   - App scaricabile dagli store digitali (App Store, Google Play) <br /><br />
-
-
-## Requisiti non Funzionali
-
+   - App scaricabile dagli store digitali (App Store, Google Play) 
+   
 - **Sicurezza**
    - Verifica che l’utente che richiede il menu sia un medico, tramite autenticazione e controllo delle credenziali
    - Protezione e sicurezza dei dati: i dati degli utenti non possono essere condivisi esternamente 
    - Accessibilità limitata all’orario specifico (5:00 - 19:30) 
-
 
 - **Manutenibilità**
    - Manutenzione continua dell’applicazione tramite aggiornamenti regolari, per garantire efficienza e correzione di eventuali bug
